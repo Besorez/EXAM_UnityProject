@@ -9,7 +9,7 @@ public class move : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-
+        int a = 6;
 
     }
 
