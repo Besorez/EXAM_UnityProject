@@ -10,7 +10,7 @@ public class move : MonoBehaviour
     void Start()
     {
         int a = 6;
-
+        a = 20;
     }
 
     // Update is called once per frame
