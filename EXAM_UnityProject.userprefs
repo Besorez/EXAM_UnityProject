@@ -1,10 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\move.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="L:\Projects Unity\17.05.2015\Space Shooter\Assets\Scripts\PlayerController.cs">
     <Files>
-      <File FileName="Assets\Script\move.cs" Line="14" Column="17" />
-      <File FileName="L:\Projects Unity\17.05.2015\Space Shooter\Assets\Scripts\Mover.cs" Line="1" Column="1" />
-      <File FileName="L:\Projects Unity\17.05.2015\Space Shooter\Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\3DOcean Modular Dungeon Package\3DOcean Modular Dungeon Package\Help.txt" Line="1" Column="1" />
+      <File FileName="Assets\Script\move.cs" Line="1" Column="1" />
+      <File FileName="L:\Projects Unity\17.05.2015\Space Shooter\Assets\Scripts\PlayerController.cs" Line="34" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

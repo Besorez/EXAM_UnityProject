@@ -46,11 +46,21 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\move.cs" />
+     <None Include="Assets\Dungeon Construction Kit\Prefabs\ReadMe.txt" />
+     <None Include="Assets\3DOcean Modular Dungeon Package\3DOcean Modular Dungeon Package\Help.txt" />
+     <None Include="Assets\Dungeon Construction Kit\Scenes\ReadMe.txt" />
+     <None Include="Assets\Dungeon_Construction_Kit\Readme.txt" />
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>L:/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>L:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>L:/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>L:/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>L:/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>

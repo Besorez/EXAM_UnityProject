@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 22cde39c2446e234b8fb3c6ca9911844
+timeCreated: 1443615621
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Archway
+    100002: Barrel
+    100004: Bones
+    100006: Capper
+    100008: Chains
+    100010: Corners
+    100012: Dead_End_Wood
+    100014: Dead_Ends
+    100016: Floor_Horizontal_Variations
+    100018: Floor_Variation_Large_01
+    100020: Floor_Variation_Large_02
+    100022: Floor_Variation_Small_01
+    100024: Floor_Variation_Small_02
+    100026: Large_Wall_Variation_01
+    100028: Large_Wall_Variation_02
+    100030: Pillars
+    100032: //RootNode
+    100034: Room
+    100036: Room_Variations
+    100038: Room_Wood_Support
+    100040: Rubble
+    100042: Small_Wall_Dual_Teeth
+    100044: Small_Wall_Variation_01
+    100046: Small_Wall_Variation_02
+    100048: Spiderwebs
+    100050: Torches
+    100052: Treasure_Chests
+    400000: Archway
+    400002: Barrel
+    400004: Bones
+    400006: Capper
+    400008: Chains
+    400010: Corners
+    400012: Dead_End_Wood
+    400014: Dead_Ends
+    400016: Floor_Horizontal_Variations
+    400018: Floor_Variation_Large_01
+    400020: Floor_Variation_Large_02
+    400022: Floor_Variation_Small_01
+    400024: Floor_Variation_Small_02
+    400026: Large_Wall_Variation_01
+    400028: Large_Wall_Variation_02
+    400030: Pillars
+    400032: //RootNode
+    400034: Room
+    400036: Room_Variations
+    400038: Room_Wood_Support
+    400040: Rubble
+    400042: Small_Wall_Dual_Teeth
+    400044: Small_Wall_Variation_01
+    400046: Small_Wall_Variation_02
+    400048: Spiderwebs
+    400050: Torches
+    400052: Treasure_Chests
+    2300000: Archway
+    2300002: Barrel
+    2300004: Bones
+    2300006: Capper
+    2300008: Chains
+    2300010: Corners
+    2300012: Dead_End_Wood
+    2300014: Dead_Ends
+    2300016: Floor_Horizontal_Variations
+    2300018: Floor_Variation_Large_01
+    2300020: Floor_Variation_Large_02
+    2300022: Floor_Variation_Small_01
+    2300024: Floor_Variation_Small_02
+    2300026: Large_Wall_Variation_01
+    2300028: Large_Wall_Variation_02
+    2300030: Pillars
+    2300032: Room
+    2300034: Room_Variations
+    2300036: Room_Wood_Support
+    2300038: Rubble
+    2300040: Small_Wall_Dual_Teeth
+    2300042: Small_Wall_Variation_01
+    2300044: Small_Wall_Variation_02
+    2300046: Spiderwebs
+    2300048: Torches
+    2300050: Treasure_Chests
+    3300000: Archway
+    3300002: Barrel
+    3300004: Bones
+    3300006: Capper
+    3300008: Chains
+    3300010: Corners
+    3300012: Dead_End_Wood
+    3300014: Dead_Ends
+    3300016: Floor_Horizontal_Variations
+    3300018: Floor_Variation_Large_01
+    3300020: Floor_Variation_Large_02
+    3300022: Floor_Variation_Small_01
+    3300024: Floor_Variation_Small_02
+    3300026: Large_Wall_Variation_01
+    3300028: Large_Wall_Variation_02
+    3300030: Pillars
+    3300032: Room
+    3300034: Room_Variations
+    3300036: Room_Wood_Support
+    3300038: Rubble
+    3300040: Small_Wall_Dual_Teeth
+    3300042: Small_Wall_Variation_01
+    3300044: Small_Wall_Variation_02
+    3300046: Spiderwebs
+    3300048: Torches
+    3300050: Treasure_Chests
+    4300000: Archway
+    4300002: Barrel
+    4300004: Bones
+    4300006: Capper
+    4300008: Chains
+    4300010: Corners
+    4300012: Dead_End_Wood
+    4300014: Dead_Ends
+    4300016: Floor_Horizontal_Variations
+    4300018: Floor_Variation_Large_01
+    4300020: Floor_Variation_Large_02
+    4300022: Floor_Variation_Small_01
+    4300024: Floor_Variation_Small_02
+    4300026: Large_Wall_Variation_01
+    4300028: Large_Wall_Variation_02
+    4300030: Pillars
+    4300032: Room
+    4300034: Room_Variations
+    4300036: Room_Wood_Support
+    4300038: Rubble
+    4300040: Small_Wall_Dual_Teeth
+    4300042: Small_Wall_Variation_01
+    4300044: Small_Wall_Variation_02
+    4300046: Spiderwebs
+    4300048: Torches
+    4300050: Treasure_Chests
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
